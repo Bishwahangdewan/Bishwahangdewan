@@ -20,6 +20,8 @@ My name is **Bishwa** and I'm a **Full stack Developer** . I'm from Darjeeling ,
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishwahangdewan&theme=algolia&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishwahangdewan&layout=compact&theme=algolia)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BishwahangDewan&repo=Animax&theme=algolia)
+
 <!--
 **Bishwahangdewan/Bishwahangdewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
