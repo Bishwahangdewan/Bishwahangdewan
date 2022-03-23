@@ -18,7 +18,7 @@ My name is **Bishwa** and I'm a **Full stack Developer** . I'm from Darjeeling ,
 # Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishwahangdewan&theme=algolia&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishwahangdewan&layout=compact&theme=algolia)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BishwahangDewan&theme=algolia)](https://git.io/streak-stats)
 
 # Projects
 
