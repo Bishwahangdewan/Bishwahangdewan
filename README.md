@@ -1,4 +1,7 @@
-### Hi there 👋
+![banner](https://github.com/Bishwahangdewan/Bishwahangdewan/blob/main/assets/Bishwa%20Hang%20Dewan.png?raw=true)
+
+# Hello :wave: ! 
+My name is **Bishwa** and I'm a **Full stack Developer** . I'm from Darjeeling , India. I started my Web Dev Journey in 2019 when I was in my second year of college. Throughout my Journey I've had the chance to learn awesome technologies starting from the core **HTML , CSS and Javascript to advanced React and Node JS**. 
 
 <!--
 **Bishwahangdewan/Bishwahangdewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
